@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Practical 1: word2vec
 [Brendan Shillingford, Yannis Assael, Chris Dyer]
 
@@ -55,4 +55,4 @@ See the bolded "**Handin:**" parts above. On paper or verbally, show a practical
 =======
 # deeplearning
 Deep learning on TED talks
->>>>>>> 3d0ebd265e17b3cd362f6dfd443c7c80bef23b1a
+
