@@ -1,5 +1,5 @@
 # WIP :
-Will ammend to describe what I have done for each practical
+Will amend to describe what I have done for each practical
 
 # Practical 1: word2vec
 [Brendan Shillingford, Yannis Assael, Chris Dyer]
